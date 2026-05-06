@@ -1,0 +1,31 @@
+[project]
+name = "researchs"
+version = "0.1.0"
+description = "Research Projects"
+authors = [
+    {name = "Arowosegbe Victor Iyanuoluwa",email = "iyanuvicky@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "counter (>=1.0.0,<2.0.0)",
+    "pandas (>=2.3.0,<3.0.0)",
+    "polars (>=1.39.2,<2.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)",
+    "fastexcel (>=0.19.0,<0.20.0)",
+    "pyarrow (>=23.0.1,<24.0.0)",
+    "statsmodels (>=0.14.6,<0.15.0)",
+    "python-docx (>=1.2.0,<2.0.0)",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+black = "^26.3.1"
+isort = "^8.0.1"
+flake8 = "^7.3.0"
+mypy = "^1.20.0"
+
