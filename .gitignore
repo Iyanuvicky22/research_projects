@@ -2,6 +2,10 @@
 /data
 /venv
 /samuel
+/statistics_learning
+*my_practice_class.py
+*.csv
+/notebooks/som_2026.ipynb
 
 
 *lab_proj.ipynb
