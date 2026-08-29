@@ -7,16 +7,19 @@ This repository contains end-to-end research workflows including:
 - Data sourcing and preprocessing
 - Exploratory data analysis (EDA)
 - Econometric modeling
+- Features Engineering
 - Diagnostic testing
-- Statistical validation
+- Statistical/Models validation
 - Visualization
 - Automated reporting
 - Research documentation
 
 ---
 
- # 📊 Research Project
+ # 📊 Research Projects
  - Econometric Data Research
+ - Lassa Fever Retrospective Analysis
+ - Human Dependence on AI Behavioural Research Analysis
 
 
 # 👤 Author
