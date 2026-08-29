@@ -1,14 +1,36 @@
+## Folders
 /dr_abitoye
 /data
 /venv
 /samuel
+/scripts
 /statistics_learning
+/nigeria_lassa_fever_analysis
+
+
+
+## Scripts
 *my_practice_class.py
-*.csv
+
+
+## Jupyter Notebook files
 /notebooks/som_2026.ipynb
-
-
+*econometrics.ipynb
 *lab_proj.ipynb
+
+
+## Markdown files
+*3part_reanalysis_alignment.md
+*ecom_temzy_review.md
+*intro_vs_analysis_alignment.md
+*manuscript_action_plan.md
+
+## Docs and Data files
+*.docx
+*.csv
+
+
+
 __pycache__
 
 
