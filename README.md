@@ -18,8 +18,7 @@ This repository contains end-to-end research workflows including:
 
  # 📊 Research Projects
  - Econometric Data Research
- - Lassa Fever Retrospective Analysis
- - Human Dependence on AI Behavioural Research Analysis (Pre_print: https://www.researchsquare.com/article/rs-9251126/v1)
+ - Lassa Fever Retrospective Analysis (Pre_print: https://www.researchsquare.com/article/rs-9251126/v1)
 
 
 # 👤 Author
